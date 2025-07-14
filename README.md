@@ -53,6 +53,22 @@ python main.py
 http://localhost:5000/
 ```
 ---
+## 📸 Screenshots
+
+### 🏠 Homepage  
+![Homepage](https://github.com/Dimxlight/personal-expense-tracker./blob/main/screenshots/Screenshot_20250714_235601.jpg)
+
+---
+
+### ➕ Add Expense Page  
+![Add Expense](https://github.com/Dimxlight/personal-expense-tracker./blob/main/screenshots/Screenshot_20250714_235604.jpg)
+
+---
+
+### 📊 Expenses History / Summary Page  
+![Summary Page](https://github.com/Dimxlight/personal-expense-tracker./blob/main/screenshots/Screenshot_20250714_235608.jpg)
+
+---
 
 ## ✨ Author
 
