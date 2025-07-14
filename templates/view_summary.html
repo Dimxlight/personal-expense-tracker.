@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Expense Summary</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <h1>Expense Summary 📊</h1>
+  <p><strong>Total Spent:</strong> ₹{{ total }}</p>
+  <ul>
+    {% for category, amount in summary.items() %}
+      <li><strong>{{ category }}</strong>: ₹{{ amount }}</li>
+    {% endfor %}
+  </ul>
+  <a href="/">⬅️ Back to Home</a>
+</body>
+</html>
