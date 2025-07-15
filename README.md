@@ -38,7 +38,7 @@ personal-expense-tracker/
 
 1. Clone this repository
 ```
-git clone https://github.com/Dimxlight/personal-expense-tracker.git
+git clone https://github.com/ShantanuKawtikwar/personal-expense-tracker.git
 ```
 2. Install dependencies
 ```
